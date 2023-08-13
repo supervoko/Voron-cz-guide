@@ -2,6 +2,21 @@
 
 Strukturovaný seznam zdrojů pro nákup dílů ke stavbě nebo upgrade tiskáren Voron. Seznam je sesbíraný s Voron Discordu (Česko Slovenská sekce).
 
+## Tištěné díly
+
+### filament pro tisk na vlastním stroji
+Doporučenými materiály jsou výhradně: ABS, ASA a Nylon PA12.
+
+[eSun ABS+ - Amazon.com](https://www.amazon.com/eSUN-1-75mm-Printer-Filament-2-2lbs/dp/B018F586ES)
+
+[DevilDesign ASA - hotend.cz](https://www.hotend.cz/asa-filament/44-devil-design-asa-cerna-black-5902280031185.html)
+
+### Print It forward
+[PIF - voron.dev](https://pif.voron.dev)
+
+### Soukromí tiskaři
+[Pavel Tajduš - hotend.cz](https://www.hotend.cz/44-tistene-dily)
+
 ## Elektro
 
 ### Základní desky/Drivery
