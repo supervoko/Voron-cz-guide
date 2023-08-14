@@ -5,10 +5,10 @@ Strukturovaný seznam zdrojů pro nákup dílů ke stavbě nebo upgrade tiskáre
 ## Tištěné díly
 
 ### filament pro tisk na vlastním stroji
-Doporučenými materiály jsou výhradně: ABS, ASA a Nylon PA12.
+Doporučenými materiály jsou výhradně: ABS, ASA a Nylon PA12.  
 
-[Polymaker ASA - 3Djake.cz](https://www.3djake.cz/polymaker/polylite-asa-black)
-
+[Polymaker ASA - hotend.cz](https://www.hotend.cz/asa-filament/840-polymaker-polylite-asa-cerna-693893679947.html)  
+[Polymaker ASA - 3Djake.cz](https://www.3djake.cz/polymaker/polylite-asa-black)  
 [DevilDesign ASA - hotend.cz](https://www.hotend.cz/asa-filament/44-devil-design-asa-cerna-black-5902280031185.html)
 
 ### Print It forward
