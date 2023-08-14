@@ -14,6 +14,9 @@ Sestaveno a podrátováno? Je čas to všechno zkontrolovat.
 [Startovní gcode](start_macro.md)  
 Co a kde doplnit, aby nám slicer kamarádil s naší tiskárnou.
 
+[Upgrady](Caste-Upgrady-2.4.md)  
+Tiskárnu máte postavenou a máte chuť si s ní hrát dále? Přizpůsobte si ji vlastním potřebám!
+
 # Oficiální zdroje
 Protože jsou jednotlivé věci relativně dost rozházené, sepsal jsem pár základních linků, kde co stáhnout nebo kde co sehnat.
 
@@ -21,13 +24,11 @@ Protože jsou jednotlivé věci relativně dost rozházené, sepsal jsem pár z�
 Image ke stažení a instalaci přes [Raspberry Pi Imager](https://www.raspberrypi.com/software/), nebo [Balena Etcher](https://www.balena.io/etcher/) . 
 
 ### MainsailOS
-https://github.com/mainsail-crew/MainsailOS/releases/
-
+https://github.com/mainsail-crew/MainsailOS/releases/  
 [Dokumentace](https://docs.mainsail.xyz)
 
 ### FluiddPI
-https://github.com/fluidd-core/FluiddPI/releases
-
+https://github.com/fluidd-core/FluiddPI/releases  
 [Dokumentace](https://docs.fluidd.xyz)
 
 ## Voron 2.4
@@ -46,8 +47,7 @@ https://github.com/VoronDesign/Voron-Tap/blob/main/Manual/Assembly_Manual_Tap.pd
 https://github.com/VoronDesign/Voron-2/tree/Voron2.4/firmware/klipper_configurations
 
 ### STL soubory
-https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs
-
+https://github.com/VoronDesign/Voron-2/tree/Voron2.4/STLs  
 https://github.com/VoronDesign/Voron-Stealthburner/tree/main/STLs
 
 ### Stažení všeho v ZIP souboru
